@@ -1,0 +1,74 @@
+.contacts {
+    background-color: #171819;
+}
+
+.get__intouch {
+text-align: center;
+background-image: url(/images/contacts/bg-2.svg);
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+padding-bottom: 231px;
+}
+
+
+
+.get__intouch h2 {
+    padding: 120px 0 35px;
+    margin: 0;
+font-size: 30px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.15000000596046448px;
+text-align: center;
+color: #48555B;
+}
+
+.button__contacts {
+    font-family: Open Sans;
+font-size: 13px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0.5px;
+text-align: center;
+color:#ffffff;
+background-color: #00A4E5;
+border: none;
+width: 150px; /* ??? */
+height:40px;
+padding: 0;
+}
+
+.button__contacts:hover {
+    background-color: #adc4ce;
+    transition: 0.3s;
+}
+
+.newsletter {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 685px;
+    margin:0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.newsletter h2 {
+    margin: 0;
+    font-family: Open Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.8461539149284363px;
+text-align: center;
+color: #ffffff;
+}
+
+.input {
+    width: 250px;
+    height: 40px;
+    padding: 0;
+    border: 1px;
+}

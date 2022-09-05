@@ -1,0 +1,41 @@
+
+
+.wrapper {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+ul {
+
+list-style: none;
+display: flex;
+flex-direction: row;
+align-content: flex-end;
+justify-content: space-between;
+width: 410px;
+padding-top: 10px;
+}
+
+.home a {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 1.0909091234207153px;
+    text-align: center;
+    color: #48555B;
+    text-transform: uppercase;
+}
+
+.home a:hover {
+    color: #00A4E5;
+
+    ;
+}
+
+img {
+    padding: 25px 0;
+    margin-left: 0;
+}
