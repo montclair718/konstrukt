@@ -3,7 +3,7 @@
 .wrapper {
     
     display: flex;
-    flex-direction: row;
+    align-items: center;
     justify-content: space-between;
 }
 
@@ -27,6 +27,8 @@ padding-top: 10px;
     text-align: center;
     color: #48555B;
     text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .home a:hover {

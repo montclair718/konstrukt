@@ -1,6 +1,7 @@
 .story {
     max-width: 1438px;
     border-top: 1px solid #e6e6e6;
+    margin: 0 auto;
 }
 
 .story h1 {
@@ -87,3 +88,19 @@ color:#FFFFFF;
 text-transform: uppercase;
 }
 
+.button__signup {
+    max-width: 886px;
+    margin: 0 auto;
+}
+
+label {
+    color: #ffffff;
+    margin-right: 50px;
+    font-family: Open Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.8px;
+text-align: center;
+
+}

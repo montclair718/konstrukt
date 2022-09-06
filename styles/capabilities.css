@@ -28,6 +28,7 @@
     letter-spacing: 2.3062498569488525px;
     text-align: left;
     color: #48555B;
+    margin: 0;
 }
 
 .underline__services {
@@ -59,6 +60,7 @@ background-color: #00A4E5;
 border: none;
 width: 150px; /* ??? */
 height:40px;
+cursor: pointer;
 }
 
 .wrapper__button button:hover {
